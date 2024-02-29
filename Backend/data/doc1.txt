@@ -1,0 +1,38 @@
+# About Pan Card
+
+### What is Pan card?
+
+The PAN card is a unique ten-digit alphanumeric identification number that is issued by the Income Tax Department of India to track the tax-related transactions of individuals and entities. The PAN card is mandatory for any financial transaction in India, including opening a bank account, buying or selling property, and filing income tax returns.
+
+### Who needs a Pan card?
+
+All individuals/non-individuals (including foreign citizens/entities) earning taxable income in India must have a PAN card.
+
+### Types of PAN cards
+
+In India, two types of PAN cards are available: e-PAN card and physical PAN card.
+
+1. e-PAN card: An e-PAN card is a digitally-signed PAN card issued in electronic format. It contains the same PAN details as a physical PAN card but is available in a digital format. It can be downloaded online and used as a valid identification document for various purposes. The e-PAN card is usually issued in a PDF format.
+2. Physical PAN card: A physical PAN card is a laminated card with your PAN details printed on it. It is a physical document that can be carried and used as a valid identification proof. The physical PAN card is sent to the applicant's registered address by post.
+
+Both e-PAN and physical PAN cards have the same validity and can be used for identification purposes. The choice between the two depends on the applicant's preference and requirements.
+
+### **Why do NRIs need PAN card?**
+
+NRIS don’t need to have a PAN Card. However, a PAN Card is necessary for NRIs if they wish to do any of the following in India:
+
+1. A PAN card is required to carry out financial transactions such as opening a bank account, investing in stocks, purchasing or selling property, and investing in India.
+
+2. If an NRI earns an income in India, they must file income tax returns. A PAN card is necessary to file these returns.
+
+3. If an NRI wants to invest in mutual funds in India, they must have a PAN card.
+
+## Importance of PAN card for different NRI account options
+
+NRI Accounts comprise of NRE,NRO and FCNR Accounts. A basic overview to understand the importance of PAN Card with respect to these three accounts can be understood as:
+
+**NRE:** For funds earned outside India where both Principal and Interest earned are tax-free. Therefore, NRIs can opt for Form 60, which is a substitute for PAN for opening an NRE Account.
+
+**NRO:** For funds earned in India which are mostly liable to taxes. Income such as rent or pension where taxes are not deducted at source are deposited in an NRO Account. Therefore, a PAN Card is mandatory for NRO Accounts.
+
+**FCNR:** For foreign currency term deposits from outside India. Again, the principal and interest are tax-free, so usage of a PAN Card is not necessary and can be substituted with Form 60.
